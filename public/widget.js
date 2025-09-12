@@ -18,7 +18,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
   // Создаём картинку
   const img = document.createElement('img');
-  img.src = 'https://i.ibb.co/0pQK0Xf0/1-6.png'; // твоя картинка
+  img.src = 'https://i.imgur.com/tO4m7Mu.png'; // твоя картинка
   img.style.position = 'absolute';
   img.style.width = '200px';
   img.style.height = '200px';
@@ -77,3 +77,4 @@ document.addEventListener('DOMContentLoaded', () => {
 
 });
 </script>
+
